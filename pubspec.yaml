@@ -1,0 +1,62 @@
+name: application
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+
+dependencies:
+  cloud_firestore: ^3.1.10
+  firebase_auth: ^3.3.11
+  firebase_core: ^1.13.1
+  firebase_storage: ^10.2.9
+  flutter:
+    sdk: flutter
+  fluttertoast: ^8.0.9
+  google_sign_in: ^5.2.4
+  random_string: ^2.3.1
+  rflutter_alert: ^2.0.4
+  shared_preferences: ^2.0.13
+
+
+ 
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+ 
+  assets:
+  - assets/Screenshot_1.png
+  - assets/Untitled.png
+  - assets/background.png
+  - assets/user1.png
+  - assets/Screenshot_2.png
+  - assets/user1.png
+  - assets/user2.png
+  - assets/user3.png
+  - assets/user4.png
+  
+  fonts:
+    - family: Bahnschrift
+      fonts:
+        - asset: assets/bahnschrift.ttf
+  
