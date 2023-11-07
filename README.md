@@ -9,9 +9,9 @@ This application was made by a team of ComputerScience students at the HIMIT,Egy
 ![Screenshot_1650388861](https://github.com/uglycrap/Final/assets/101046846/99f0d1e8-7ebe-4328-8847-414db62a929d)
 
 # Members
-Members of this team are:
-Zeyad Tarik Ghoneim
-Ahmed Ali Gergawy
-Donia Ebrahim 
-Heba Ebrahim
-Yousr Al-Blqasi
+- Members of this team are:
+- Zeyad Tarik Ghoneim
+- Ahmed Ali Gergawy
+- Donia Ebrahim 
+- Heba Ebrahim
+- Yousr Al-Blqasi
